@@ -47,8 +47,4 @@ client.on("message", (message) => {
   }
 });
 
-<<<<<<< HEAD
-//client.login(process.env.TOKEN)
-=======
 client.login(TOKEN)
->>>>>>> dev-branch
