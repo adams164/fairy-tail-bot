@@ -1,3 +1,19 @@
 {
-  "prefix": "!"
+  "prefix": "!",
+  "CQsheetId": "1pPLf0vbI8hyiphZKIMk4xFxOvcTgGMVxsDz6U-ocUcQ",
+  "dataRange": "Clan Overview!A7:N56",
+  "PrizeList": ["Weapons", "SP & Perks", "Shards & Eggs"],
+  "BonusList": [
+    "3x Warlord Boost",
+    "+5 Mana Regen",
+    "1.2x All Probabilities",
+    "x3 Sorcerer Boost",
+    "x10 Chesterson Gold",
+    "+100% Multiple Fairy Chance",
+    "x3 Knight Boost",
+    "20% Mana Refund",
+    "1.5x Prestige Relics",
+    "10x Boss Gold"
+  ],
+  "OriginDate": 1532242116.705826
 }
