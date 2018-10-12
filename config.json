@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-  "prefix": "!"
-=======
   "prefix": "!",
   "CQsheetId": "1pPLf0vbI8hyiphZKIMk4xFxOvcTgGMVxsDz6U-ocUcQ",
   "dataRange": "Clan Overview!A7:N56",
@@ -19,5 +16,4 @@
     "10x Boss Gold"
   ],
   "OriginDate": 1532242116.705826
->>>>>>> dev-branch
 }
