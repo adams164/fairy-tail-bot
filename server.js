@@ -14,7 +14,7 @@ client.on("message", (message) => {
     return;
   }
 
-  const args = message.content.slice(prefix.length).trim().split(/ +/g);
+  const args = message.content.slice(config.prefix.length).trim().split(/ +/g);
   const command = args.shift().toLowerCase();
 
 
@@ -30,4 +30,4 @@ client.on("message", (message) => {
   }
 });
 
-client.login(process.env.TOKEN)
+//client.login(process.env.TOKEN)
