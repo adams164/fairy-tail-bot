@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "discord.js": "^11.4.2",
+<<<<<<< HEAD
     "express": "^4.16.4"
+=======
+    "express": "^4.16.4",
+    "googleapis": "^34.0.0"
+>>>>>>> dev-branch
   },
   "engines": {
     "node": "8.x"
